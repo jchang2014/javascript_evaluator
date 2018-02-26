@@ -1,5 +1,7 @@
 FROM partlab/ubuntu-ruby
 
+# DO somet stuf
+
 # Install Postgres
 ENV PG_APP_HOME="/etc/docker-postgresql"\
     PG_VERSION=9.5 \
